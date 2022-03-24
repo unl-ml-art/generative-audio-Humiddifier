@@ -1,42 +1,29 @@
 # Project 2 Generative Audio
 
-Your Name, yourcontact@unl.edu
-
-(Your teammate's contact info, if appropriate)
+Elliot Starlin-Hintz, istarlin-hintz2@huskers.unl.edu
 
 ## Abstract
 
-Include your abstract here. This should be one paragraph clearly describing your concept, method, and results. This should tell us what architecture/approach you used. Also describe your creative goals, and whether you were successful in achieving them. Also could describe future directions.
+For this project I was inspired by the robotic vocals found in early computer speech, specifically in musical endevors like the first singing computer, IBM 7045. In my spare time I often listen to utauloid compositions, a sub genres of fan made music made with commmunity made singing synth pop stars.I have always been entanced with the idea of singing computers as it is a very human art, requiring the human vocal. I am also curious in the positibility of applying machine learning and deep learning models to enhance the sound of these Vocaloids. Bring emotion and likeness to the sometimes stiff nature of singing computers. 
 
+For the result of this project I want to make my own Virtual Pop Star using Utauloid, my personal voice recordings, and Enunu, a AI plugin, trained to help your Utauloid sound more natural. Both of my parents are very muscially inclinded, but I did not get so lucky with my own voice, as I am tone deaf. Since I am not vocally inclined, I want to specifically experiment my own voice to see what my emotional response is to hearing myself sing well. I hope to cover one song using a community made UST. 
+ 
 ## Model/Data
-
-Briefly describe the files that are included with your repository:
-- trained models
-- training data (or link to training data)
-
+ 
+ Coming soon!
+ 
 ## Code
 
-Your code for generating your project:
-- Python: generative_code.py
-- Jupyter notebooks: generative_code.ipynb
+Coming soon!
 
 ## Results
 
-Documentation of your results in an appropriate format, both links to files and a brief description of their contents:
-- `.wav` files or `.mp4`
-- `.midi` files
-- musical scores
-- ... some other form
+Coming soon!
 
 ## Technical Notes
 
-Any implementation details or notes we need to repeat your work. 
-- Does this code require other pip packages, software, etc?
-- Does it run on some other (non-datahub) platform? (CoLab, etc.)
+Coming soon!
 
 ## Reference
 
-References to any papers, techniques, repositories you used:
-- Papers
-- Repositories
-- Blog posts
+Coming soon! 
