@@ -11,11 +11,17 @@ In a light of both of these events, we want to create a new BROCKHAMPTON track, 
 
 ## Model/Data
 
-Coming soon!
+We used 25 of our favorite BROCKHAMPTON song lyrics to generate our own. We also used the songs BLEACH and BERLIN as files to upload to the code for the primed song generation.
+
+Briefly describe the files that are included with your repository:
+- trained models
+- training data (or link to training data)
+
+This was a collab notebook I stumbled upon while searching tutorials and fixes for Open On Demand. It is a much newer version of the code we used in 
 
 ## Code
 
-Coming soon!
+
 
 ## Results
 
@@ -23,7 +29,7 @@ https://user-images.githubusercontent.com/76749527/163001280-0341773d-5018-4990-
 
 ## Technical Notes
 
-Coming soon!
+Coming soon! 
 
 ## Reference
 
