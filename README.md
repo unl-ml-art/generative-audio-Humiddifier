@@ -21,7 +21,7 @@ This was a collab notebook I stumbled upon while searching tutorials and fixes f
 
 ## Code
 
-
+Added to files named "One_Click_Jukebox_with_Autosave_v2.." It is a ipynb file we used on google collab. 
 
 ## Results
 
@@ -29,8 +29,11 @@ https://user-images.githubusercontent.com/76749527/163001280-0341773d-5018-4990-
 
 ## Technical Notes
 
-Coming soon! 
+We had a lot of trouble with running out of memory? Cuda memory. We'd like to revist this project with more ability to generate more clips. The code didn't work after the first pass. We had to set up my google drive to the code on google collab. That was really finicky. And everytime I ran the code I had to create a new notebook with a new name or else the code would get very confused. 
 
 ## Reference
 
-Coming soon!
+https://colab.research.google.com/drive/1sJda9v46gNzBc7m59MP5zn63AWc-axCY?usp=sharing#scrollTo=sAdFGF-bqVMY
+- https://www.youtube.com/watch?v=q21I7YO-MEs
+- https://www.youtube.com/watch?v=PXxGOl-ATa4&t=0s
+
